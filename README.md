@@ -25,7 +25,7 @@
 - [deagle](https://www.youtube.com/watch?v=BUr7N65Knu8&ab_channel=ArdaKoca)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/adakocae)
+➡️ [more videos...](https://youtube.com/ardakocae)
 
 ---
 
