@@ -1,7 +1,7 @@
 ### Hi there, I'm Arda Koca
 
 [![Website](https://img.shields.io/website?label=ardakocaa.com&style=for-the-badge&url=https%3A%2F%2Fardakocaa.com)](https://ardakocaa.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ardakoca001?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ardakoca001)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ardakocae?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ardakoca001)
 
 
 ### Connect with me:
