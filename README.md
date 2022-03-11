@@ -7,10 +7,9 @@
 ### Connect with me:
 
 [<img align="left" alt="ardakocaa.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ardakoca001 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ardakoca001 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ardakocaa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ardakoca001 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ardakocae | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ardakocae | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ardakocae | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -26,12 +25,11 @@
 - [deagle](https://www.youtube.com/watch?v=BUr7N65Knu8&ab_channel=ArdaKoca)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/adakoca001)
+➡️ [more videos...](https://youtube.com/adakocae)
 
 ---
 
 [website]: https://ardakocaa.com
-[twitter]: https://twitter.com/ardakoca001
-[youtube]: https://youtube.com/ardakoca001
-[instagram]: https://instagram.com/ardakoca001
-[linkedin]: https://linkedin.com/in/adakocaa
+[twitter]: https://twitter.com/ardakocae
+[youtube]: https://youtube.com/ardakocae
+[instagram]: https://instagram.com/ardakocae
