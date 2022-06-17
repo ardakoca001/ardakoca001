@@ -22,14 +22,14 @@
 
 <!-- YOUTUBE:START -->
 - [bunny](https://www.youtube.com/watch?v=NS10gUBFYFo&ab_channel=ArdaKoca)
-- [deagle](https://www.youtube.com/watch?v=BUr7N65Knu8&ab_channel=ArdaKoca)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/ardakocae)
 
 ---
 
-[website]: https://ardakocaa.com
-[twitter]: https://twitter.com/ardakocae
-[youtube]: https://youtube.com/ardakocae
+[website]: https://www.ardakocaa.com
 [instagram]: https://instagram.com/ardakocae
+[youtube]: https://youtube.com/ardakocae
+[twitter]: https://twitter.com/ardakocae
+[facebook]: https://www.facebook.com/officialarda
