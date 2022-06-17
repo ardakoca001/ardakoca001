@@ -22,7 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [bunny](https://www.youtube.com/watch?v=NS10gUBFYFo&ab_channel=ArdaKoca)
+- [bunny](https://www.youtube.com/watch?v=BUr7N65Knu8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/ardakocae)
